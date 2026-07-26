@@ -162,6 +162,7 @@ min_samples_split: 5
 min_samples_leaf: 1
 max_features: sqrt
 max_depth: None
+```
 
 ### Author
 Alok Singh
