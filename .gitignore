@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment variables
+.env
+.env.*
+
+# Model temporary files
+*.h5
+*.keras
+*.pth
+*.pt
+
+# Large downloaded files
+downloads/
+
+# Dataset files
+dataset/raw/
+dataset/processed/
+
+# Generated cache
+.cache/
