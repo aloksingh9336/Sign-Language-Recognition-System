@@ -164,5 +164,5 @@ max_features: sqrt
 max_depth: None
 ```
 
-### Author
+## Author
 Alok Singh
